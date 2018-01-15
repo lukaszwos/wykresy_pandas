@@ -7,7 +7,7 @@ DONE:
 - wykresy słupkowe (including YTD)
 
 
-YET TODO:
+YET TO DO:
 
 - dodać FIZ
 - dodać integrację z .pptx
